@@ -7,7 +7,7 @@ git status
 h
 end
 .
-
-
+cleaENN
+cl
 ..
-End
+ENdgit
